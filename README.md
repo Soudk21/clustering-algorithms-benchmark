@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-orange.svg)](https://scikit-learn.org/)
-[![Conference](https://img.shields.io/badge/SRC-Zayed%20University-blue)](https://srcac.zu.ac.ae/2026/)
+[![Conference](https://img.shields.io/badge/SRC-Zayed%20University-green)](https://srcac.zu.ac.ae/2026/)
 
 ## 📄 Abstract
 
